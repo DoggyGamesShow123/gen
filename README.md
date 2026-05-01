@@ -5,7 +5,7 @@ A Sega Genesis and 32x emulator with mobile compatibility designed for running i
 ## Links:
 
 - [Genesis emulator](https://doggygamesshow123.github.io/gen/Genesis.htm)
-- [Demo booting a sample game](https://doggygamesshow123.github.io/gen/Genesis.htm?demo)
+- [Demo booting a sample game](https://doggygamesshow123.github.io/gen/Genesis.htm?Delta)
 
 ## Screenshots:
 
